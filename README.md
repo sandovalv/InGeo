@@ -1,2 +1,3 @@
 # InGeo
 InGeo project including citrix, GcCode, OpenLM....
+This will integrate all this plataforms to PBI and reporting dashboard
